@@ -1,0 +1,43 @@
+
+.admin .card{
+    border : 20px;
+    border-color: red;
+}
+
+.active{
+      background: #125B50!important;
+}
+
+body{
+    background-color: #F8B400;
+}
+
+.custom-bg{
+    background: #125B50;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#navid{
+    position : fixed;
+     width: 100%;
+    overflow: hidden; 
+}
+
+
+.text-bold{
+    font-weight: bold;
+}
+
+.toast{
+    position: absolute;
+    right:30px;
+}
+
+
+
