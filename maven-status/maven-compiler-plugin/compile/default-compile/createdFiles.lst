@@ -1,0 +1,12 @@
+com\mycompany\ecommerceproject\servlets\SignUpServlet.class
+com\mycompany\ecommerceproject\entities\User.class
+com\mycompany\ecommerceproject\entities\category.class
+com\mycompany\ecommerceproject\entities\product.class
+com\mycompany\ecommerceproject\dao\userDAO.class
+com\mycompany\ecommerceproject\servlets\LoginServlet.class
+com\mycompany\ecommerceproject\dao\categoryDAO.class
+com\mycompany\ecommerceproject\dao\productDAO.class
+com\mycompany\ecommerceproject\servlets\LogOutServlet.class
+com\mycompany\ecommerceproject\helper\FactoryProvider.class
+com\mycompany\ecommerceproject\helper\Helper.class
+com\mycompany\ecommerceproject\servlets\ProductOperationServlet.class
